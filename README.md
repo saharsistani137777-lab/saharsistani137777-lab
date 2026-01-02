@@ -3,11 +3,11 @@
 **Software Engineer | Aspiring AI Researcher**  
 
 
-Software Engineer | Aspiring AI Researcher
-
 Focused on Machine Learning, Deep Learning, and AI in Medicine.
 
 Hands-on experience with Python, PyTorch, TensorFlow, and the Python data & AI ecosystem
+
+
 ---
 
 ## Skills
