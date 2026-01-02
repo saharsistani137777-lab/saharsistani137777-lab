@@ -1,5 +1,6 @@
 # <span style="color:#FF69B4">Sahar Sistani</span>
 
+
 **Software Engineer | Master's Student in Artificial Intelligence**  
 
 Passionate about **Machine Learning**, **Deep Learning**, and **AI in Medicine**.  
@@ -9,8 +10,6 @@ Hands-on experience with **Python**, **TensorFlow**, and **GitHub**.
 
 ---
 
-## Skills
-
 <p align="left" style="line-height:80px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="70" height="70" style="margin-right:20px;"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="70" height="70" style="margin-right:20px;"/>  
@@ -18,8 +17,5 @@ Hands-on experience with **Python**, **TensorFlow**, and **GitHub**.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="70" height="70" style="margin-right:20px;"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="70" height="70" style="margin-right:20px;"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="70" height="70" style="margin-right:20px;"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="70" height="70" style="margin-right:20px; vertical-align: middle;"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="70" height="70"/>
 </p>
-
----
