@@ -2,11 +2,10 @@
 
 **Software Engineer | Aspiring AI Researcher**  
 
-Passionate about **Machine Learning**, **Deep Learning**, and **AI in Medicine**.  
-Keen on **data-driven research** and working with real-world datasets.  
-Exploring **Graph Neural Networks (GNN)** and advanced **PyTorch** applications.  
-Hands-on experience with **Python** and the **Python data & AI ecosystem** (NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, PyTorch, Scikit-learn), and **GitHub basics**.
 
+Software Engineer | Aspiring AI Researcher
+Focused on Machine Learning, Deep Learning, and AI in Medicine.
+Hands-on experience with Python, PyTorch, TensorFlow, and the Python data & AI ecosystem
 ---
 
 ## Skills
